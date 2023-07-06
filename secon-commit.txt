@@ -1,0 +1,1 @@
+se pegar o id do commit e usar git checkout id da voltar no commit especifico
