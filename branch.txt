@@ -19,3 +19,17 @@ git reset --soft HEAD~1 - so remove o ultimo commit
 git reset HEAD~1
 
 git reset --hard HEAD~1
+
+git branch -D <nome branch> <nome branch2> - remive duas branches
+
+git stash
+
+git stach aply
+
+git stash list
+
+git stash aply <index da lista> pra mostrar
+
+git stash push -m "third feature added"
+
+git stash pop 0
