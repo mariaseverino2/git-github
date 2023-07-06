@@ -5,3 +5,17 @@ git checkout -b <name>
 git switch - c <name>
 
 text we dont need
+
+git clean -dn
+
+git clean -df
+
+git reset <no e arquivo> - remove o ultimo comit de um arquivo
+
+git retore <no e arquivo> - remove o ultimo comit de um arquivo
+
+git reset --soft HEAD~1 - so remove o ultimo commit
+
+git reset HEAD~1
+
+git reset --hard HEAD~1
