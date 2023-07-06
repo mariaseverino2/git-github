@@ -3,3 +3,5 @@ branch
 git checkout -b <name>
 
 git switch - c <name>
+
+text we dont need
